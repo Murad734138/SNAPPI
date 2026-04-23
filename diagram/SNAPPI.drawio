@@ -267,7 +267,7 @@
           <mxGeometry height="30" width="80" x="690" y="860" as="geometry" />
         </mxCell>
         <mxCell id="f59Div1DFmewZrm8dFmd-56" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cluster-2" vertex="1">
-          <mxGeometry height="150" width="160" x="910" y="690" as="geometry" />
+          <mxGeometry height="150" width="160" x="900" y="680" as="geometry" />
         </mxCell>
         <mxCell id="f59Div1DFmewZrm8dFmd-57" parent="f59Div1DFmewZrm8dFmd-56" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;Worker-5: 192.168.0.150&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" y="30" as="geometry" />
