@@ -266,7 +266,7 @@
         <mxCell id="f59Div1DFmewZrm8dFmd-55" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Cluster-2&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="690" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="f59Div1DFmewZrm8dFmd-56" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cluster-2" vertex="1">
+        <mxCell id="f59Div1DFmewZrm8dFmd-56" parent="1" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cluster-2" vertex="1">
           <mxGeometry height="150" width="160" x="900" y="680" as="geometry" />
         </mxCell>
         <mxCell id="f59Div1DFmewZrm8dFmd-57" parent="f59Div1DFmewZrm8dFmd-56" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;Worker-5: 192.168.0.150&lt;/font&gt;" vertex="1">
@@ -278,7 +278,7 @@
         <mxCell id="f59Div1DFmewZrm8dFmd-59" parent="f59Div1DFmewZrm8dFmd-56" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;Worker-7: 192.168.0.152&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 255);&quot;&gt;Worker-8: 192.168.0.153&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="f59Div1DFmewZrm8dFmd-60" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cluster-1" vertex="1">
+        <mxCell id="f59Div1DFmewZrm8dFmd-60" parent="1" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="Cluster-1" vertex="1">
           <mxGeometry height="150" width="160" x="900" y="465" as="geometry" />
         </mxCell>
         <mxCell id="f59Div1DFmewZrm8dFmd-61" parent="f59Div1DFmewZrm8dFmd-60" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(255, 51, 255);&quot;&gt;Worker-1: 192.168.0.101&lt;/font&gt;" vertex="1">
@@ -323,7 +323,7 @@
         <mxCell id="vti2mJ001AOiMhUHoAR3-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Master Pi&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="764.5699999999999" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="vti2mJ001AOiMhUHoAR3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;SNAPPI Isolated Network System Setup&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="vti2mJ001AOiMhUHoAR3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 38px; color: rgb(2, 2, 2);&quot;&gt;&lt;b style=&quot;&quot;&gt;SNAPPI Isolated Network System Setup&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="1120" x="-180" y="30" as="geometry" />
         </mxCell>
       </root>
