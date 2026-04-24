@@ -76,6 +76,9 @@
         <mxCell id="d5YKtw5jWoJt3Sq7QxYR-98" parent="dK-zNx9bClRTovQKORzj-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Verify&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Environment&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="93" x="96.88000000000011" y="364.90999999999997" as="geometry" />
         </mxCell>
+        <mxCell id="d5YKtw5jWoJt3Sq7QxYR-99" parent="dK-zNx9bClRTovQKORzj-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Environment&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ready&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="48" width="88" x="99.38000000000011" y="482.19" as="geometry" />
+        </mxCell>
         <mxCell id="dK-zNx9bClRTovQKORzj-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#FDFFEA;rounded=1;startSize=91;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;Phase (v):&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;Real-time Prediction&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="725" width="206" x="950" y="23" as="geometry" />
         </mxCell>
