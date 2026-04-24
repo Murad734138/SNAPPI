@@ -41,16 +41,16 @@
           <mxGeometry height="249" width="249" x="210" y="83" as="geometry" />
         </mxCell>
         <mxCell id="DalH8o_MTWi0gA3WBGD4-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=51;rounded=1;swimlaneFillColor=light-dark(#f1e9e9, #ededed);fillColor=#f8cecc;strokeColor=#b85450;" value="Vertical Container" vertex="1">
-          <mxGeometry height="317" width="262" x="26" y="441" as="geometry" />
+          <mxGeometry height="317" width="288" x="26" y="441" as="geometry" />
         </mxCell>
         <mxCell id="DalH8o_MTWi0gA3WBGD4-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#D4E1F5;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;startSize=53;" value="Vertical Container" vertex="1">
-          <mxGeometry height="320" width="266.76" x="381" y="441" as="geometry" />
+          <mxGeometry height="320" width="251" x="405" y="441" as="geometry" />
         </mxCell>
         <mxCell id="DalH8o_MTWi0gA3WBGD4-10" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontStyle=1;startSize=53;swimlaneFillColor=#D4E1F5;rounded=1;" value="" vertex="1">
-          <mxGeometry height="60" width="108" x="647.76" y="569.5" as="geometry" />
+          <mxGeometry height="60" width="108" x="656" y="569.5" as="geometry" />
         </mxCell>
         <mxCell id="DalH8o_MTWi0gA3WBGD4-12" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;startSize=51;rounded=1;swimlaneFillColor=light-dark(#f1e9e9, #ededed);" value="" vertex="1">
-          <mxGeometry height="60" width="95" x="288" y="569.5" as="geometry" />
+          <mxGeometry height="60" width="95" x="316" y="569.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
