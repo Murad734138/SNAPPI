@@ -422,6 +422,9 @@
             <mxPoint x="805" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="i1YOM-a5qeh78LBdLnv6-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;Suspicious Network Analysis for Python Package Index&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17" width="365.5" x="412.25" y="792" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
