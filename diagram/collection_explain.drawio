@@ -161,11 +161,23 @@
         <mxCell id="9OX9V2n5WXdKuxMzRrJa-65" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;i. Background Processes&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; (e.g., swapper/0,&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; systemd-resolve)&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="164" x="24" y="151" as="geometry" />
         </mxCell>
-        <mxCell id="9OX9V2n5WXdKuxMzRrJa-66" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-66" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ii. Unrelated Network&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Activities&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="158" x="24" y="206" as="geometry" />
         </mxCell>
-        <mxCell id="9OX9V2n5WXdKuxMzRrJa-67" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-67" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;iii. Incomplete / Invaild&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Traces&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="158" x="24" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-68" parent="yPxf8Ypyw46N0n0ri4En-7" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#dae8fc;shape=mxgraph.mscae.enterprise.filter;" value="" vertex="1">
+          <mxGeometry height="52" width="57.78" x="74.11" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-69" edge="1" parent="yPxf8Ypyw46N0n0ri4En-7" source="9OX9V2n5WXdKuxMzRrJa-64" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="9OX9V2n5WXdKuxMzRrJa-68" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-353" y="361" as="sourcePoint" />
+            <mxPoint x="-303" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-70" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Retain Only Meaningful&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TCP Events&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="171.25" x="17.38" y="372" as="geometry" />
         </mxCell>
         <mxCell id="yPxf8Ypyw46N0n0ri4En-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="211" width="211" x="611" y="529" as="geometry" />
