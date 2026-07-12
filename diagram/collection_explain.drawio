@@ -137,6 +137,18 @@
             <mxPoint x="103" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-56" parent="yPxf8Ypyw46N0n0ri4En-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Node 1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24.5" width="47" x="19.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-57" parent="yPxf8Ypyw46N0n0ri4En-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Node 2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24.5" width="47" x="19.5" y="264" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-58" parent="yPxf8Ypyw46N0n0ri4En-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Node 3&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24.5" width="47" x="19.5" y="362" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-59" parent="yPxf8Ypyw46N0n0ri4En-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Unified&lt;div&gt;Raw Dataset&lt;/div&gt;" vertex="1">
+          <mxGeometry height="47.25" width="52" x="140" y="254.25" as="geometry" />
+        </mxCell>
         <mxCell id="yPxf8Ypyw46N0n0ri4En-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="5. Data cleaning &amp;amp; Filtering" vertex="1">
           <mxGeometry height="418" width="204" x="958" y="29" as="geometry" />
         </mxCell>
