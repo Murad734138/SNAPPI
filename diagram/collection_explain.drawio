@@ -158,6 +158,15 @@
         <mxCell id="9OX9V2n5WXdKuxMzRrJa-64" parent="yPxf8Ypyw46N0n0ri4En-7" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FFB570;" value="" vertex="1">
           <mxGeometry height="162" width="182" x="12" y="137" as="geometry" />
         </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-65" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;i. Background Processes&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; (e.g., swapper/0,&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; systemd-resolve)&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="164" x="24" y="151" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-66" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="40" width="158" x="24" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-67" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="40" width="158" x="24" y="250" as="geometry" />
+        </mxCell>
         <mxCell id="yPxf8Ypyw46N0n0ri4En-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;" value="" vertex="1">
           <mxGeometry height="211" width="211" x="611" y="529" as="geometry" />
         </mxCell>
