@@ -13,10 +13,10 @@
         <mxCell id="yPxf8Ypyw46N0n0ri4En-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="3. Trace Logs Generated&lt;div&gt;(per package)&lt;/div&gt;" vertex="1">
           <mxGeometry height="418" width="204" x="488.5" y="29" as="geometry" />
         </mxCell>
-        <mxCell id="yPxf8Ypyw46N0n0ri4En-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Vertical Container" vertex="1">
+        <mxCell id="yPxf8Ypyw46N0n0ri4En-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="4. Aggregation from All Nodes" vertex="1">
           <mxGeometry height="418" width="204" x="722" y="29" as="geometry" />
         </mxCell>
-        <mxCell id="yPxf8Ypyw46N0n0ri4En-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Vertical Container" vertex="1">
+        <mxCell id="yPxf8Ypyw46N0n0ri4En-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="5. Data cleaning &amp;amp; Filtering" vertex="1">
           <mxGeometry height="418" width="204" x="958" y="29" as="geometry" />
         </mxCell>
         <mxCell id="yPxf8Ypyw46N0n0ri4En-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;" value="" vertex="1">
@@ -53,6 +53,15 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="565" y="444" as="sourcePoint" />
             <mxPoint x="615" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=38;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="Noise in Raw Data (Removed)" vertex="1">
+          <mxGeometry height="285" width="243" x="237" y="492" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-5" edge="1" parent="1" source="9OX9V2n5WXdKuxMzRrJa-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#fad9d5;strokeColor=#ae4132;" target="yPxf8Ypyw46N0n0ri4En-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="565" y="437" as="sourcePoint" />
+            <mxPoint x="615" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
