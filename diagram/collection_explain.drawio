@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yPxf8Ypyw46N0n0ri4En-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Vertical Container" vertex="1">
+        <mxCell id="yPxf8Ypyw46N0n0ri4En-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="1. Isolated Execution Environment" vertex="1">
           <mxGeometry height="418" width="204" x="20" y="29" as="geometry" />
         </mxCell>
-        <mxCell id="yPxf8Ypyw46N0n0ri4En-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Vertical Container" vertex="1">
+        <mxCell id="yPxf8Ypyw46N0n0ri4En-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="2. TCP Trace Collection&lt;div&gt;(eBPF-bases)&lt;/div&gt;" vertex="1">
           <mxGeometry height="418" width="204" x="254" y="29" as="geometry" />
         </mxCell>
-        <mxCell id="yPxf8Ypyw46N0n0ri4En-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Vertical Container" vertex="1">
+        <mxCell id="yPxf8Ypyw46N0n0ri4En-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="3. Trace Logs Generated&lt;div&gt;(per package)&lt;/div&gt;" vertex="1">
           <mxGeometry height="418" width="204" x="488.5" y="29" as="geometry" />
         </mxCell>
         <mxCell id="yPxf8Ypyw46N0n0ri4En-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;startSize=69;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Vertical Container" vertex="1">
