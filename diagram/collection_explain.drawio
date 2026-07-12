@@ -179,7 +179,7 @@
         <mxCell id="9OX9V2n5WXdKuxMzRrJa-70" parent="yPxf8Ypyw46N0n0ri4En-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Retain Only Meaningful&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TCP Events&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="41" width="171.25" x="17.38" y="372" as="geometry" />
         </mxCell>
-        <mxCell id="yPxf8Ypyw46N0n0ri4En-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;" value="" vertex="1">
+        <mxCell id="yPxf8Ypyw46N0n0ri4En-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=light-dark(#deedde, #1f2f1e);strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="211" width="211" x="611" y="529" as="geometry" />
         </mxCell>
         <mxCell id="yPxf8Ypyw46N0n0ri4En-9" edge="1" parent="1" source="yPxf8Ypyw46N0n0ri4En-7" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;strokeWidth=1;strokeColor=#432D57;fillColor=#76608a;" target="yPxf8Ypyw46N0n0ri4En-8" value="">
@@ -241,6 +241,15 @@
             <mxPoint x="825" y="295" as="sourcePoint" />
             <mxPoint x="618" y="368" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-73" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#005700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#008a00;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="95" width="91" x="671" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-74" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;shadow=0;" value="" vertex="1">
+          <mxGeometry height="65" width="65" x="722" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="9OX9V2n5WXdKuxMzRrJa-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Final Dataset&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;(1,871 Packages)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Malicious + Benign&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="188" x="627" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
